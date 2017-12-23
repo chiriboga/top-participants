@@ -14,15 +14,14 @@ Finally an easy way to show your Blackbaud Luminate Online Top Participants info
 
 
 ## Default Arguments
-
-**type** = participants | teams | crew
-**output** = table | list  
-**class** = "whatever you want it to be"  
-**id** = "whatever you want it to be  
-**event_id** = fr_id  
-**filter_text** = the "participant type" inside your Teamraiser for a particular event (ONLY FOR CREW)
-**limit** = <10 (apparently their API ONLY gives you up to 10) 
-**title** = "whatever you want it to be and gets wrapped in an h2 with the class of "type"_header so IE: participants_header 
+- **type** = participants | teams | crew
+- **output** = table | list
+- **class** = "whatever you want it to be"  
+- **id** = "whatever you want it to be  
+- **event_id** = fr_id  
+- **filter_text** = the "participant type" inside your Teamraiser for a particular event (ONLY FOR CREW)
+- **limit** = <10 (apparently their API ONLY gives you up to 10) 
+- **title** = "whatever you want it to be and gets wrapped in an h2 with the class of "type"_header so IE: participants_header 
 
 ## Installation
 
@@ -31,11 +30,11 @@ Finally an easy way to show your Blackbaud Luminate Online Top Participants info
 3. Login to your WP Admin panel, click Plugins, and activate "Luminate Top Participants"
 
 ## Frequently Asked Questions
-1. Do I need a Luminate Online account to run this?
-> Yes. You need a working Luminate Online account since you will need to get vital information from the system.
+**Do I need a Luminate Online account to run this?**
+Yes. You need a working Luminate Online account since you will need to get vital information from the system.
 
-2. Can I grab the total amount of donations received?
-> Currently it does not, but I will work on that.
+**Can I grab the total amount of donations received?**
+Currently it does not, but I will work on that.
 
 
 
