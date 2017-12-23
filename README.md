@@ -46,6 +46,6 @@ Finally an easy way to show your Blackbaud Luminate Online Top Participants info
 **Sample Output from the Top Participants Plugin**
 ![alt text](top-participants-output.jpg "Output")
 
-## Changelog ==
+## Changelog
 1.1
 * Removed those participants that have their account set to private within Luminate from showing up in the Top Lists
