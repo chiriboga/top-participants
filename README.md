@@ -1,3 +1,6 @@
+![alt text](banner-772x250.jpg "Top Participants")
+
+
 # top-participants
 A Wordpress Plugin for showing top participants, teams and groups from the Luminate API
 
@@ -36,10 +39,8 @@ Finally an easy way to show your Blackbaud Luminate Online Top Participants info
 
 
 
-
-
 ## Screenshots == 
-1. Luminate Top Participants Admin Section screenshot-1.png
+![alt text](screenshot-1.png "Admin Settings")
 
 ## Changelog ==
 1.1
