@@ -2,7 +2,7 @@
 
 
 # top-participants
-A Wordpress Plugin for showing top participants, teams and groups from the Luminate API
+A Wordpress Plugin for showing top participants, teams and groups from the Luminate API.  For information on thhe plugin or on how to lease the plugin for your website [contact me](mailto://richardchiriboga@gmail.com) today.
 
 ## Description
 
@@ -30,16 +30,21 @@ Finally an easy way to show your Blackbaud Luminate Online Top Participants info
 3. Login to your WP Admin panel, click Plugins, and activate "Luminate Top Participants"
 
 ## Frequently Asked Questions
-**Do I need a Luminate Online account to run this?**
-Yes. You need a working Luminate Online account since you will need to get vital information from the system.
+<dl>
+  <dt>Do I need a Luminate Online account to run this?</dt>
+  <dd>Yes. You need a working Luminate Online account since you will need to get vital information from the system.</dd>
 
-**Can I grab the total amount of donations received?**
-Currently it does not, but I will work on that.
+  <dt>Can I grab the total amount of donations received?</dt>
+  <dd>Currently it does not, but I will work on that.</dd>
+</dl>
 
 
-
-## Screenshots == 
+## Screenshots
+**Admin Settings within the WordPress Environment.**
 ![alt text](screenshot-1.png "Admin Settings")
+
+**Sample Output from the Top Participants Plugin**
+![alt text](top-participants-output.jpg "Output")
 
 ## Changelog ==
 1.1
