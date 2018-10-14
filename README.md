@@ -2,7 +2,7 @@
 
 
 # Top Participants WordPress Plugin
-A Wordpress Plugin for showing top participants, teams and groups from the Luminate API.  For information on thhe plugin or on how to lease the plugin for your website [contact me](mailto://richardchiriboga@gmail.com) today.
+A Wordpress Plugin for showing top participants, teams and groups from the Luminate API.  For information on thhe plugin or on how to lease the plugin for your website [contact me](mailto:richardchiriboga@gmail.com) today.
 
 ## Description
 
